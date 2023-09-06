@@ -1,4 +1,6 @@
-## Olá! Eu sou Gabriel Paixão, programador e estudante de DevOps!
+<div align=center>
+  <h1>Olá! Eu sou Gabriel Paixão, programador e estudante de DevOps!</h1>
+</div>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
