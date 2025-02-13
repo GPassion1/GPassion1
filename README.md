@@ -1,5 +1,5 @@
 <div align=center>
-  <h1>Olá! Eu sou Gabriel Paixão, programador e estudante de DevOps!</h1>
+  <h1>Olá! Eu sou Gabriel Paixão, programador e estudante de Gestão de T.I.!</h1>
 </div>
 
 <div style="display: inline_block" align="center"><br>
